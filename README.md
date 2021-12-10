@@ -1,9 +1,9 @@
-### Oiii! eu sou a Queren Hapuque, estudante de programação 🤘🏻
 
+### Oiii! eu sou a Queren Hapuque, estudante de programação 🤘🏻
 <div align="center">
   <a href="https://github.com/querenhapuquerocha">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=querenhapuquerocha&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=querenhapuquerocha&layout=compact&langs_count=7&theme=omni"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=querenhapuquerocha&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=querenhapuquerocha&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,4 +25,14 @@
  	<a href="https://www.twitch.tv/querenfernandes" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  
     
+</div>
+-------------------------------------------------
+
+  ##
+ 
+<div> 
+  https://www.twitch.tv/querenfernandeshttps://discord.com/channels/@me
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
