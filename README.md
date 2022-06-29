@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/QuerenHapuqueRocha/QuerenHapuqueRocha/blob/main/Hi.gif" alt="hi gif" width="30px">, I'm Queren Hapuque</h1>
+<h1 align="center">Hi , I'm Queren Hapuque</h1>
 <div align="center">
   <a href="https://github.com/querenhapuquerocha">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=QuerenHapuqueRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
