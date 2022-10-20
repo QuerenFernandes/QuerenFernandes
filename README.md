@@ -1,10 +1,11 @@
-<h1 align="center">Hi , I'm Queren Hapuque</h1>
-<div align="center">
-  <a href="https://github.com/querenhapuquerocha">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=QuerenHapuqueRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuerenHapuqueRocha&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<div style="display: inline_block"><br>
+<h1 align="center">Hi there, I'm Queren Hapuque👋</h1>
+
+###
+<h3 align="left">I have experience in the market working as a team, and with people management. I have a interpersonal skill, assertive communication and ease of learning.</h3>
+
+###
+<p align="left">I live in Brazil, Minas Gerais ☺<br>I am a Software Engineering student 👩‍💻<br>I am Front-end Developer 💻</p>
+
   <h3 align="left">Languages:</h3>
 <p align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -33,6 +34,13 @@
 <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
 </p>
    </div>
+   
+   <div align="center">
+  <a href="https://github.com/querenhapuquerocha">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=QuerenHapuqueRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuerenHapuqueRocha&layout=compact&langs_count=7&theme=radical"/>
+</div>
+<div style="display: inline_block"><br>
   
   ##
  
