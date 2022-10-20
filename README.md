@@ -1,40 +1,21 @@
 <h1 align="center">Hi there, I'm Queren Hapuque👋</h1>
 
 ###
-<h3 align="left">I have experience in the market working as a team, and with people management. I have a interpersonal skill, assertive communication and ease of learning.</h3>
+<h4 align="left">Estou em processo de migração de carreira, formada em Administração em Empresas. Sou apaixonada por tecnologia e muito curiosa. Tenho experiência com trabalho em equipe e gestão de pessoas e possuo comunicação assertiva e ótimo relacionamento interpessoal.</h4>
 
 ###
-<p align="left">I live in Brazil, Minas Gerais ☺<br>I am a Software Engineering student 👩‍💻<br>I am Front-end Developer 💻</p>
+<p align="left"> Sou estudante de Engenharia de Software 👩‍💻<br>Desenvolvedora Front-end 💻</p>
 
-  <h3 align="left">Languages:</h3>
+<h3 align="left">Programming languages and tools ​​that I have experience with:</h3>
 <p align="left">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-     
-  
-  <h3 align="left">Frameworks and Libs:</h3>
-<p align="left">
-     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img alt="React" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  
-  <h3 align="left">Databases:</h3>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-  <h3 align="left">Learning:</h3>
-<p align="left">
-   <img alt="ts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
- 
-  
-   <h3 align="left">IDEs and Editors:</h3>
-<p align="left">
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
-</p>
-   </div>
-   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+        
    <div align="center">
   <a href="https://github.com/querenhapuquerocha">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=QuerenHapuqueRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
