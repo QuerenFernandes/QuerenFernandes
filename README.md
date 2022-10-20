@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Queren Hapuque👋</h1>
+<h1 align="center">Oiii eu sou a Queren Hapuque 😊</h1>
 
 ###
 <h4 align="left">Estou em processo de migração de carreira, formada em Administração em Empresas. Sou apaixonada por tecnologia e muito curiosa. Tenho experiência com trabalho em equipe e gestão de pessoas e possuo comunicação assertiva e ótimo relacionamento interpessoal.</h4>
@@ -27,11 +27,14 @@
  
 <div>
   <h3 align="left">Connect with me:</h3>
-<p align="left">
-     <a href="https://www.linkedin.com/in/queren-hapuque-fernandes-b685321aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.instagram.com/29queren.fernandes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/Q3ySCBeA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 	<a href="https://www.twitch.tv/querenfernandes" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  
+<div align="left">
+<a href="https://www.linkedin.com/in/queren-hapuque-fernandes-b685321aa/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="56" height="40" alt="linkedin logo" target="_blank" /></a>
+    
+<a href="https://www.instagram.com/29queren.fernandes/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="56" height="40" alt="instagram logo" target="_blank"></a>
+
+<a href="https://discord.gg/Q3ySCBeA" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="56" height="40" alt="discord logo" target="_blank"></a> 
+  </div>
  
   <a href="https://github.com/QuerenHapuqueRocha/Certificates"><h3 align="left">Certificates here</h3></a>
     
