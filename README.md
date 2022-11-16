@@ -1,4 +1,8 @@
-<h1 align="center">Oiii eu sou a Queren Hapuque 😊</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&size=35&pause=1000&color=white&center=true&width=1000&lines=Oiii,+eu+sou+a+Queren+Hapuque%2C;+Bem+Vindo(a)!)](https://git.io/typing-svg)
+
+
+
 
 ###
 <h5 align="left">Estou em processo de migração de carreira, formada em Administração em Empresas. Sou apaixonada por tecnologia e muito curiosa. Tenho experiência com trabalho em equipe e gestão de pessoas e possuo comunicação assertiva e ótimo relacionamento interpessoal.</h5>
@@ -41,3 +45,4 @@
 
 </div>
 
+  <p align="center"> <img height="35em" src="https://komarev.com/ghpvc/?username=QuerenHapuqueRocha&label=Visitas%20no%20Perfil&color=blue&style=flattrue&locale=pt-br" /> </p>
