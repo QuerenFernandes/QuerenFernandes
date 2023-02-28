@@ -4,7 +4,9 @@
 ###
 <h4 align="left">Seja bem-vindo (a) ao meu perfil 😊 </h4>
 
-<h4 align="left"> Por ser muito curiosa, acabei me apaixonando pela tecnologia, e decidi ser uma desenvolvedora. Atualmente estou cursando Engenharia de Software e buscando uma oportunidade como desenvolvedora. Além do meu título de Engenheira quero contribuir com toda a minha energia e mostrar pra outras mulheres que "se você pode sonhar, você pode fazer". 😊😊 </h4>
+<h4 align="justify"> Por ser muito curiosa, acabei me apaixonando pela tecnologia, e decidi ser desenvolvedora! Hoje, trabalho como analista de suporte técnico, e estou cursando Engenharia de Software porque quero aprender mais sobre tecnologia e quero ter o meu título de Engenheira! Além disso, tenho feito cursos e projetos de aprimoramento focada em desenvolvimento com a tecnologia Java.</h4>
+
+<h4 align="left"> Realmente acredito que: se você pode sonhar, você pode fazer! 😊 😊 🚀</h4>
 
 ###
 
