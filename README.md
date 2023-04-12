@@ -4,9 +4,13 @@
 ###
 <h4 align="left">Seja bem-vindo (a) ao meu perfil 😊 </h4>
 
-<h4 align="justify"> Por ser muito curiosa, acabei me apaixonando pela tecnologia, e decidi ser desenvolvedora! Hoje, trabalho como analista de suporte técnico, e estou cursando Engenharia de Software porque quero aprender mais sobre tecnologia e quero ter o meu título de Engenheira! Além disso, tenho feito cursos e projetos de aprimoramento focada em desenvolvimento com a tecnologia Java.</h4>
+<h4 align="justify"> Graduada em Administração, cursando Engenharia de Software e aluna da Alura, estou migrando de carreira porque me encontrei na área de tecnologia. Sou muito curiosa, então amo aprender coisas novas, tenho facilidade em aprender, em gestão de pessoas e um ótimo relacionamento interpessoal.
 
-<h4 align="left"> Realmente acredito que: se você pode sonhar, você pode fazer! 😊 😊 🚀</h4>
+Trabalho como analista de suporte técnico, convivendo com metodologias ágeis (Scrum), e tenho feitos alguns projetos usando as tecnologias HTML, CSS, JavaScript.
+
+Atualmente estou estudando React e Java.  🚀🚀🚀
+
+Possuo interesse em desenvolvimento de softwares, desenvolvimento front-end e gestão de times.</h4>
 
 ###
 
