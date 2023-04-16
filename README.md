@@ -6,7 +6,7 @@
 
 <h4 align="justify"> Graduada em Administração, cursando Engenharia de Software e aluna da Alura, estou migrando de carreira porque me encontrei na área de tecnologia. Sou muito curiosa, então amo aprender coisas novas, tenho facilidade em aprender, em gestão de pessoas e um ótimo relacionamento interpessoal.
 
-Trabalho como analista de suporte técnico, convivendo com metodologias ágeis (Scrum), e tenho feitos alguns projetos usando as tecnologias HTML, CSS, JavaScript.
+Trabalho como analista de suporte técnico, convivendo com metodologias ágeis (Scrum), e tenho feito alguns projetos usando as tecnologias HTML, CSS e JavaScript.
 
 Atualmente estou estudando React e Java.  🚀🚀🚀
 
