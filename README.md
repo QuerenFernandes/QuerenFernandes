@@ -8,7 +8,7 @@
 
 Trabalho como analista de suporte técnico, convivendo com metodologias ágeis (Scrum), e tenho feito alguns projetos usando as tecnologias HTML, CSS e JavaScript.
 
-Atualmente estou estudando React e Java.  🚀🚀🚀
+Atualmente estou estudando Java e Modelagem de Softwares.  🚀🚀🚀
 
 Possuo interesse em desenvolvimento de softwares, desenvolvimento front-end e gestão de times.</h4>
 
