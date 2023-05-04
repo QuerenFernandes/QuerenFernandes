@@ -26,9 +26,9 @@ Possuo interesse em desenvolvimento de softwares, desenvolvimento front-end e ge
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />   
                    
 <div align="center">
-<a href="https://github.com/querenhapuquerocha">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=QuerenHapuqueRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuerenHapuqueRocha&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/QuerenHapuqueFernandes">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=QuerenHapuqueFernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuerenHapuqueFernandes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   
@@ -42,7 +42,7 @@ Possuo interesse em desenvolvimento de softwares, desenvolvimento front-end e ge
 <a href="https://discord.gg/Q3ySCBeA" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="56" height="40" alt="discord logo" target="_blank"></a> 
 
      
-<a href="https://github.com/QuerenHapuqueRocha/Certificates"><h6 align="left"> 🎓 Clique aqui para ver meus certificados</h6></a>
+<a href="https://github.com/QuerenHapuqueFernandes/Certificates"><h6 align="left"> 🎓 Clique aqui para ver meus certificados</h6></a>
 
 ##
    
