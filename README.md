@@ -1,16 +1,12 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&size=35&pause=1000&color=white&center=true&width=1000&lines=Oiii,+eu+sou+a+Queren+Hapuque%2C;+Bem+Vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&size=35&pause=1000&color=white&center=true&width=1000&lines=Oiii,+eu+sou+a+Queren+Fernandes%2C;+Bem+Vindo(a)!)](https://git.io/typing-svg)
 
 ###
 <h4 align="left">Seja bem-vindo (a) ao meu perfil 😊 </h4>
 
-<h4 align="justify"> Graduada em Administração, cursando Engenharia de Software e aluna da Alura, estou migrando de carreira porque me encontrei na área de tecnologia. Sou muito curiosa, então amo aprender coisas novas, tenho facilidade em aprender, em gestão de pessoas e um ótimo relacionamento interpessoal.
+<h4 align="justify"> Meu interesse pela tecnologia começou há anos, quando desde nova sabia que trilharia esse caminho, por ser uma pessoa que gosta de entender como as coisas funcionam. Comecei a graduação de Engenharia de Software por estar decidida a seguir na área.
 
-Trabalho como analista de suporte técnico, convivendo com metodologias ágeis (Scrum), e tenho feito alguns projetos usando as tecnologias HTML, CSS e JavaScript.
-
-Atualmente estou estudando Java e Modelagem de Softwares.  🚀🚀🚀
-
-Possuo interesse em desenvolvimento de softwares, desenvolvimento front-end e gestão de times.</h4>
+Estou em busca da vaga como DEV, então continuo em constante aperfeiçoamento, colocando em prática o que aprendo e não tenho problemas em aprender novas tecnologias, além da facilidade de adaptação.
 
 ###
 
@@ -37,15 +33,15 @@ Possuo interesse em desenvolvimento de softwares, desenvolvimento front-end e ge
 <h6 align="left">Venha conectar comigo:</h6>
   
 <div align="left">
-<a href="https://www.linkedin.com/in/queren-hapuque-fernandes-b685321aa/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="52" alt="javascript logo"  " width="56" height="40" alt="linkedin logo" target="_blank" /></a>
+<a href="https://www.linkedin.com/in/queren-fernandes-b685321aa/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="52" alt="javascript logo"  " width="56" height="40" alt="linkedin logo" target="_blank" /></a>
 <a href="https://www.instagram.com/29queren.fernandes/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="56" height="40" alt="instagram logo" target="_blank"></a>
 <a href="https://discord.gg/Q3ySCBeA" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="56" height="40" alt="discord logo" target="_blank"></a> 
 
      
-<a href="https://github.com/QuerenHapuqueFernandes/Certificates"><h6 align="left"> 🎓 Clique aqui para ver meus certificados</h6></a>
+<a href="https://github.com/QuerenFernandes/Certificates"><h6 align="left"> 🎓 Clique aqui para ver meus certificados</h6></a>
 
 ##
    
-![Snake animation](https://github.com/QuerenHapuqueRocha/QuerenHapuqueRocha/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/QuerenFernandes/QuerenFernandes/blob/output/github-contribution-grid-snake.svg)
 
 </div>
