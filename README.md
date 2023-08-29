@@ -2,11 +2,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1C376&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Eu+sou+a+Queren;Sejam+Bem+-+Vindos(as)!+:%29)](https://git.io/typing-svg)
 
 ###
-<h4 align="left">Seja bem-vindo (a) ao meu perfil 😊 </h4>
+<h4 align="left">Oi geeks 🖖🏻 </h4>
 
-<h4 align="justify"> Meu interesse pela tecnologia começou há anos, quando desde nova sabia que trilharia esse caminho, por ser uma pessoa que gosta de entender como as coisas funcionam. Comecei a graduação de Engenharia de Software por estar decidida a seguir na área.
+<h4 align="justify"> A jornada que começa na Administração e desemboca na Engenharia de Software é a minha prova de que paixão e determinação são as melhores ferramentas para construir um futuro tech brilhante. Acredito que através do Java, podemos construir pontes para um futuro tech mais brilhante e cheio de possibilidades. Atualmente, estou dedicando meus momentos aos encantos da linguagem Java, enquanto persigo a emocionante busca por uma oportunidade de desenvolvimento.
+  
+###
 
-Estou em busca da vaga como DEV, então continuo em constante aperfeiçoamento, colocando em prática o que aprendo e não tenho problemas em aprender novas tecnologias, além da facilidade de adaptação.
+💻 Desenvolvendo meu mundo em Java, enquanto o HTML, CSS e JavaScript também fazem parte da trilha.
+
+📚 Em constante busca por conhecimento, com olhos brilhando para as novas tecnologias e desafios.
+
+🚀 Seja para bater papo sobre códigos ou para encontrar soluções inovadoras, estou sempre pronta para a conversa.
 
 ###
 
@@ -26,8 +32,8 @@ Estou em busca da vaga como DEV, então continuo em constante aperfeiçoamento, 
                    
 <div align="center">
 <a href="https://github.com/QuerenFernandes">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=QuerenFernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuerenFernandes&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=QuerenFernandes&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+<img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuerenFernandes&layout=compact&langs_count=7&theme=swift"/>
 </div>
 <div style="display: inline_block"><br>
   
