@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&size=35&pause=1000&color=white&center=true&width=1000&lines=Oiii,+eu+sou+a+Queren+Fernandes%2C;+Bem+Vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1C376&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Eu+sou+a+Queren;Sejam+Bem+-+Vindos(as)!+:%29)](https://git.io/typing-svg)
 
 ###
 <h4 align="left">Seja bem-vindo (a) ao meu perfil 😊 </h4>
