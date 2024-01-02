@@ -2,17 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1C376&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Eu+sou+a+Queren;Sejam+Bem+-+Vindos(as)!+:%29)](https://git.io/typing-svg)
 
 ###
-<h4 align="left">Oi geeks 🖖🏻 </h4>
+<h4 align="left">Oi pessoal 🖖🏻 </h4>
 
-<h4 align="justify"> A jornada que começa na Administração e desemboca na Engenharia de Software é a minha prova de que paixão e determinação são as melhores ferramentas para construir um futuro tech brilhante. Acredito que através do Java, podemos construir pontes para um futuro tech mais brilhante e cheio de possibilidades. Atualmente, estou dedicando meus momentos aos encantos da linguagem Java, enquanto persigo a emocionante busca por uma oportunidade de desenvolvimento.
-  
-###
-
-💻 Desenvolvendo meu mundo em Java, enquanto o HTML, CSS e JavaScript também fazem parte da trilha.
-
-📚 Em constante busca por conhecimento, com olhos brilhando para as novas tecnologias e desafios.
-
-🚀 Seja para bater papo sobre códigos ou para encontrar soluções inovadoras, estou sempre pronta para a conversa.
+<h4 align="justify"> Acredito que através do Java, podemos construir pontes para um futuro tech mais brilhante e cheio de possibilidades. Estou me dedicando ao estudo dessa linguagem fascinante! 
 
 ###
 
