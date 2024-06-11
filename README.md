@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1C376&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Eu+sou+a+Queren;Sejam+Bem+-+Vindos(as)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EEEEEE&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Eu+sou+a+Queren;Sejam+Bem+-+Vindos(as)!+:%29)](https://git.io/typing-svg)
 
 ###
 <h4 align="left">Oi pessoal 🖖🏻 </h4>
@@ -24,8 +24,8 @@
                    
 <div align="center">
 <a href="https://github.com/QuerenFernandes">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=QuerenFernandes&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-<img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuerenFernandes&layout=compact&langs_count=7&theme=swift"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=QuerenFernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuerenFernandes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   
@@ -41,8 +41,13 @@
      
 <a href="https://github.com/QuerenFernandes/Certificates"><h6 align="left"> 🎓 Clique aqui para ver meus certificados</h6></a>
 
-##
-   
-![Snake animation](https://github.com/QuerenFernandes/QuerenFernandes/blob/output/github-contribution-grid-snake.svg)
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 </div>
