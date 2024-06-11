@@ -41,12 +41,8 @@
      
 <a href="https://github.com/QuerenFernandes/Certificates"><h6 align="left"> 🎓 Clique aqui para ver meus certificados</h6></a>
 
-
-###
-
-<br clear="both">
-![snake gif](https://github.com/QuerenFernandes/QuerenFernandes/blob/output/github-contribution-grid-snake.gif)
-
 ###
 
 </div>
+
+![snake gif](https://github.com/QuerenFernandes/QuerenFernandes/blob/output/github-contribution-grid-snake.gif)
